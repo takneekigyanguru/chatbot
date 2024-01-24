@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "E:\\Takneekigyanguru\\Code\\dotnet\\asp.net\\ChatGPTChatBot\\ChatGPTChatBot.Server\\..\\chatgptchatbot.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ChatGPTChatBot.Server.props" />
+</Project>
